@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Responsi098</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="biodata">Biodata</string>
+    <string name="detail">Detail</string>
+    <string name="header_detail">header detail</string>
+</resources>
